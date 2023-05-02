@@ -20,7 +20,7 @@
 
 
 > **_优秀项目收录_**  
-> 如果需要在本项目中展示自己的github 项目，请在[README.md](https://github.com/helloexp/0day/edit/master/README.md) 添加项目地址，更新上面列表，然后提交PR即可（open pull request）
+> 如果需要在本项目中展示自己的github 项目，请在[README.md](https://github.com/Ldealism-a/OdREADME.md) 添加项目地址，更新上面列表，然后提交PR即可（open pull request）
 
 
 ## 为什么发起这个项目？
